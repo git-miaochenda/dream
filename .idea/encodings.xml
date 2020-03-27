@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dream_cart_web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_content/dream_content_interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_content/dream_content_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_content/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_item_web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_manager/dream_manager_dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_manager/dream_manager_dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_manager/dream_manager_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_manager/dream_manager_interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_manager/dream_manager_pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_manager/dream_manager_pojo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_manager/dream_manager_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_manager/dream_manager_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_manager/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_manager_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_manager_web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_order/dream_order_interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_order/dream_order_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_order_web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_protal_web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_search/dream_search_interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_search/dream_search_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_search/dream_search_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_search/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_search_web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_sso/dream_sso_interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_sso/dream_sso_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_sso/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dream_sso_web/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

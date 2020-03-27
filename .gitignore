@@ -1,0 +1,22 @@
+# Project exclude paths
+/dream_cart_web/target/
+/dream_common/target/
+/dream_content/dream_content_interface/target/
+/dream_content/dream_content_service/target/
+/dream_item_web/target/
+/dream_manager/dream_manager_dao/target/
+/dream_manager/dream_manager_interface/target/
+/dream_manager/dream_manager_pojo/target/
+/dream_manager/dream_manager_service/target/
+/dream_manager_web/target/
+/dream_order/dream_order_interface/target/
+/dream_order/dream_order_service/target/
+/dream_order_web/target/
+/dream_protal_web/target/
+/dream_search/dream_search_interface/target/
+/dream_search/dream_search_service/target/
+/dream_search_web/target/
+/dream_sso/dream_sso_interface/target/
+/dream_sso/dream_sso_service/target/
+/dream_sso_web/target/
+/out/
